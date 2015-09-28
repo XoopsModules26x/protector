@@ -1,2 +1,2 @@
 # publisher
-XOOPS Publisher for XOOPS 2.6.0+
+XOOPS Protector for XOOPS 2.6.0+

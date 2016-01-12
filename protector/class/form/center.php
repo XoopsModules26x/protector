@@ -17,7 +17,6 @@
  * @package         Protector
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 
 class ProtectorCenterForm extends Xoops\Form\ThemeForm

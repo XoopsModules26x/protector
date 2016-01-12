@@ -16,7 +16,6 @@
  * @license         GNU GPL 2 or later (http://www.gnu.org/licenses/gpl-2.0.html)
  * @package         protector
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 class protector_spamcheck_overrun_message extends ProtectorFilterAbstract

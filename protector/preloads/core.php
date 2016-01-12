@@ -17,7 +17,6 @@
  * @package         protector
  * @since           2.4.0
  * @author          trabis <lusopoemas@gmail.com>
- * @version         $Id$
  */
 
 /**
